@@ -1,0 +1,17 @@
+D:\Ashwini\VSProject\ConsoleApp\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Ashwini\VSProject\ConsoleApp\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Ashwini\VSProject\ConsoleApp\UnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Ashwini\VSProject\ConsoleApp\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.deps.json
+D:\Ashwini\VSProject\ConsoleApp\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.runtimeconfig.json
+D:\Ashwini\VSProject\ConsoleApp\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.runtimeconfig.dev.json
+D:\Ashwini\VSProject\ConsoleApp\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.dll
+D:\Ashwini\VSProject\ConsoleApp\UnitTestProject\bin\Debug\netcoreapp2.1\UnitTestProject.pdb
+D:\Ashwini\VSProject\ConsoleApp\UnitTestProject\bin\Debug\netcoreapp2.1\ConsoleApp.dll
+D:\Ashwini\VSProject\ConsoleApp\UnitTestProject\bin\Debug\netcoreapp2.1\ConsoleApp.pdb
+D:\Ashwini\VSProject\ConsoleApp\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.csprojAssemblyReference.cache
+D:\Ashwini\VSProject\ConsoleApp\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.csproj.CoreCompileInputs.cache
+D:\Ashwini\VSProject\ConsoleApp\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.AssemblyInfoInputs.cache
+D:\Ashwini\VSProject\ConsoleApp\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.AssemblyInfo.cs
+D:\Ashwini\VSProject\ConsoleApp\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.csproj.CopyComplete
+D:\Ashwini\VSProject\ConsoleApp\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.dll
+D:\Ashwini\VSProject\ConsoleApp\UnitTestProject\obj\Debug\netcoreapp2.1\UnitTestProject.pdb
